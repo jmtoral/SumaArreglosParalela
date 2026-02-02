@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SumaArreglosParalela.vcxproj" />
+  <Project Path="SumaArreglosParalela.vcxproj" Id="fde24f85-3f7d-4507-955b-eed2953971ad" />
 </Solution>
